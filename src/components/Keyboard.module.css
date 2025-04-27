@@ -16,7 +16,7 @@
     color: white;
 }
 
-.btn.active{
+.btn.inactive{
     opacity: .3;
 }
 
